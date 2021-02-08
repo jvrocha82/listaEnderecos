@@ -1,0 +1,276 @@
+C:\Users\jvroc\source\repos\ApiCep\bin\ApiCep.dll.config
+C:\Users\jvroc\source\repos\ApiCep\bin\ApiCep.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\ApiCep.pdb
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\csc.exe
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\csc.exe.config
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\csc.rsp
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\csi.exe
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\csi.exe.config
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\csi.rsp
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.AppContext.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Console.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.IO.Compression.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Net.Http.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.ValueTuple.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\vbc.exe
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\vbc.exe.config
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\vbc.rsp
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvroc\source\repos\ApiCep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvroc\source\repos\ApiCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\Newtonsoft.Json.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Net.Http.Formatting.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Web.Http.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Web.Http.WebHost.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\Newtonsoft.Json.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Net.Http.Formatting.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Web.Http.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Web.Http.WebHost.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\jvroc\source\repos\ApiCep\obj\Debug\ApiCep.csprojAssemblyReference.cache
+C:\Users\jvroc\source\repos\ApiCep\obj\Debug\ApiCep.csproj.CoreCompileInputs.cache
+C:\Users\jvroc\source\repos\ApiCep\obj\Debug\ApiCep.csproj.CopyComplete
+C:\Users\jvroc\source\repos\ApiCep\obj\Debug\ApiCep.dll
+C:\Users\jvroc\source\repos\ApiCep\obj\Debug\ApiCep.pdb
+C:\Users\jvroc\source\repos\ApiCep\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\Refit.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Buffers.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Memory.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Numerics.Vectors.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Text.Encodings.Web.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Text.Json.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\System.ValueTuple.dll
+C:\Users\jvroc\source\repos\ApiCep\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\Refit.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Buffers.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Memory.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Numerics.Vectors.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Text.Encodings.Web.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Text.Json.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jvroc\source\repos\ApiCep\bin\System.ValueTuple.xml
+C:\Users\jvroc\source\repos\ApiCep\obj\Debug\RefitStubs.g.cs
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\ApiCep.dll.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\ApiCep.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\ApiCep.pdb
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\csc.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\csc.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\csc.rsp
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\csi.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\csi.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\csi.rsp
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.AppContext.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Console.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.IO.Compression.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Net.Http.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.ValueTuple.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\vbc.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\vbc.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\vbc.rsp
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Newtonsoft.Json.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Refit.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Buffers.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Memory.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Net.Http.Formatting.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Numerics.Vectors.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Text.Encodings.Web.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Text.Json.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.ValueTuple.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Web.Http.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Web.Http.WebHost.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Newtonsoft.Json.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Refit.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Buffers.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Memory.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Numerics.Vectors.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Text.Encodings.Web.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Text.Json.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.ValueTuple.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Net.Http.Formatting.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Web.Http.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\System.Web.Http.WebHost.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\obj\Debug\ApiCep.csprojAssemblyReference.cache
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\obj\Debug\RefitStubs.g.cs
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\obj\Debug\ApiCep.csproj.CoreCompileInputs.cache
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\obj\Debug\ApiCep.csproj.CopyComplete
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\obj\Debug\ApiCep.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep\obj\Debug\ApiCep.pdb
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\ApiCep.dll.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\ApiCep.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\ApiCep.pdb
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\csc.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\csc.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\csc.rsp
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\csi.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\csi.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\csi.rsp
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.AppContext.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Console.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.IO.Compression.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Net.Http.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.ValueTuple.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\vbc.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\vbc.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\vbc.rsp
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Newtonsoft.Json.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Refit.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Buffers.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Memory.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Net.Http.Formatting.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Numerics.Vectors.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Text.Encodings.Web.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Text.Json.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.ValueTuple.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Http.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Http.WebHost.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Newtonsoft.Json.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Refit.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Buffers.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Memory.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Numerics.Vectors.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Text.Encodings.Web.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Text.Json.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.ValueTuple.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Net.Http.Formatting.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Http.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Http.WebHost.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\obj\Debug\ApiCep.csprojAssemblyReference.cache
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\obj\Debug\RefitStubs.g.cs
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\obj\Debug\ApiCep.csproj.CoreCompileInputs.cache
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\obj\Debug\ApiCep.csproj.CopyComplete
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\obj\Debug\ApiCep.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\obj\Debug\ApiCep.pdb
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Cors.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Http.Cors.dll
+C:\Users\jvroc\Desktop\Projetos c#\ApiCep(1.0)\bin\System.Web.Http.Cors.xml
